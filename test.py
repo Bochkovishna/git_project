@@ -1,3 +1,3 @@
 
 print("Dmitry")
-print("Laptop")
+print(" ")
